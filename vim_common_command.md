@@ -83,5 +83,6 @@ z+c : 摺疊當前
 z+o : 展開當前
 \* : to the next{
 \# : to the previous{
-
+di( / di{ : to delete thing inside parameter
+da( / da{ : to delete thing inside parameter include parameter
 
