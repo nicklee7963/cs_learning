@@ -1,4 +1,4 @@
-###this is a note of shortcut using goolge
+###this is a note of shortcut using google
 CTRL + N : open new window
 CTRL + Shift + N : open new incognito window
 CTRL + T : open new page

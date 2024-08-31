@@ -18,8 +18,8 @@ l : right
 ## Moving Horizontally
 w : move to next word
 b : move back a word
-0 : move to the begging
-^ : move to the first non-blank character
+0 : move to the beginning
+
 $ : move to the end
 % : move to the matching bracket when the 			  cursor is already on a bracket
 f(character) : find a character after
