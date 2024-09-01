@@ -85,4 +85,19 @@ z+o : 展開當前
 \# : to the previous{
 di( / di{ : to delete thing inside parameter
 da( / da{ : to delete thing inside parameter include parameter
+======================================================
+To add tabs before each line on multiple lines in Visual Studio Code when using Vim mode, follow these steps:
 
+Enter Visual Block Mode:
+
+Move the cursor to the first line where you want to add the tab.
+Press Ctrl + V (Windows/Linux) or Cmd + V (macOS) to enter Visual Block mode.
+Select the Lines:
+
+Use the j key to move down and select the lines you want to indent. The cursor will create a vertical block across the lines.
+Insert the Tab:
+
+Press Shift + I to start inserting text before the selection.
+Press Tab to insert a tab before each selected line.
+After pressing Tab, press Esc to apply the change to all selected lines.
+====================================================
