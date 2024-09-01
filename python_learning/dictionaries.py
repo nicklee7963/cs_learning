@@ -31,4 +31,4 @@ for value in capitals.values():
 items = capitals.items()
 print(items)
 for key, value in capitals.items():
-    print(f"{key}:{value}")
+    print(f"{key}:{value}")   
