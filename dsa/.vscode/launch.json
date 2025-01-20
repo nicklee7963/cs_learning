@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/cs_learning/c_judgegirl",
-      "program": "d:/cs_learning/c_judgegirl/build/Debug/outDebug",
+      "cwd": "d:/cs_learning/dsa",
+      "program": "d:/cs_learning/dsa/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
