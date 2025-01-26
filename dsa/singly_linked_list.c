@@ -112,3 +112,22 @@ void CreateListTail(Linklist *L, int n)
     }
     r->next=NULL;
 }
+
+
+
+
+
+//delete a singly linked list 
+Status ClearList(Linklist *L)
+{
+    Linklist p,q;
+    p=*L->next;
+    while(p){
+        q=p->next;
+        free(p);
+        p=q;
+
+    }
+    (*L)->next =NULL;
+    return 1;
+}
